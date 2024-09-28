@@ -1,0 +1,32 @@
+
+[
+    { "id": "1", "name": "Azerbaijan" ,"image":"Azerbaijan","city":
+        [
+            {"id":"1","name":"Baku" ,"image":  "Baku", "description": "Baku is the capital and largest city of Azerbaijan"}
+        ]
+    },
+    { "id": "2", "name": "Turkey" ,"image":"Turkey","city":
+        [
+            {"id":"1","name": "Istanbul", "image":  "Istanbul", "description": "Istanbul"},
+            {"id":"2","name": "Ankara", "image":  "Ankara", "description": "Ankara is the capital city of Turkey"},
+        ]
+    },
+    { "id": "3", "name": "France" ,"image":"France","city":
+        [
+            {"id":"1","name": "Paris", "image":  "Paris", "description": "Paris"}
+        ]
+    },
+    { "id": "4", "name": "England" ,"image":"England","city":
+        [
+          
+            {"id":"1","name": "London", "image": "London", "description": "London is the capital and largest city of England"}
+        ]
+    },
+    { "id": "5", "name": "Germany" ,"image":"Germany","city":
+        [
+            {"id":"1","name": "Berlin", "image":  "Berlin", "description": "Berlin is the capital and largest city of Germany"}
+        ]
+    },
+    
+]
+
